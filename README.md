@@ -1,4 +1,4 @@
-# My100Swift ![Header](https://img.shields.io/badge/Complete%20Days-3/100-yellowgreen.svg?style=for-the-badge&logo=swift)
+# My100Swift ![Header](https://img.shields.io/badge/Complete%20Days-4/100-yellowgreen.svg?style=for-the-badge&logo=swift)
 ## 100 Days Of SwiftUI Challenge by Paul Hudson
 https://www.hackingwithswift.com/100/swiftui
 
@@ -19,15 +19,8 @@ Start date: 01.Feb.2020
 * Arithmetic Operators. Operator overloading. Compound assignment operators. Comparison operators. Conditions. Combining conditions. The ternary operator. Switch statements. Range operators. Operators and conditions summary.
 
 #
- - [ ] <b>Day 4</b>
-* For loops.
-* While loops.
-* Repeat loops.
-* Exiting loops.
-* Exiting multiple.
-* Skipping items.
-* Infinite loops.
-* Looping summary.
+ - [x] <b>Day 4</b>
+* For loops. While loops. Repeat loops. Exiting loops. Exiting multiple. Skipping items. Infinite loops. Looping summary.
  
  #
  - [ ] <b>Day 5</b>
